@@ -14,7 +14,7 @@ UBrowser.dsp
     project (.dsp) file, but they should export the makefiles locally.
 
 UBrowser.cpp
-    This is the main DLL source file.
+    This contains the code and its functions to scan the unreal tournament player for cheats and tweaks.
 
 	When created, this DLL does not export any symbols. As a result, it 
 	will not produce a .lib file when it is built. If you wish this project
